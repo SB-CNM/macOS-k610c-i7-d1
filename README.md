@@ -27,3 +27,8 @@
 |FN+F8/F9调节亮度|正常|
 |电池电量显示|正常|
 |休眠|正常|
+
+
+----------------- 210406 -------另一个老哥更新
+远景也有个兄弟分享过 贴出来 http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1767907
+文件下载链接:https://pan.baidu.com/s/1eRX6UbS 密码:8m6d
